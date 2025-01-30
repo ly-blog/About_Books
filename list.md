@@ -1,16 +1,16 @@
 ## List
-### en/
-* [_](<blog/en/_.html>)  ([md](<blog/en/_.md>))
+### 1_light novel/
+* [_](<blog/1_light novel/_.html>)  ([md](<blog/1_light novel/_.md>))
 ---
-### jp/
-* [_](<blog/jp/_.html>)  ([md](<blog/jp/_.md>))
+### 2_jp/
+* [_](<blog/2_jp/_.html>)  ([md](<blog/2_jp/_.md>))
 ---
-### light novel/
-* [_](<blog/light novel/_.html>)  ([md](<blog/light novel/_.md>))
+### 3_zh/
+* [_](<blog/3_zh/_.html>)  ([md](<blog/3_zh/_.md>))
 ---
-### others/
-* [_](<blog/others/_.html>)  ([md](<blog/others/_.md>))
+### 4_en/
+* [_](<blog/4_en/_.html>)  ([md](<blog/4_en/_.md>))
 ---
-### zh/
-* [_](<blog/zh/_.html>)  ([md](<blog/zh/_.md>))
+### 99_others/
+* [_](<blog/99_others/_.html>)  ([md](<blog/99_others/_.md>))
 ---
