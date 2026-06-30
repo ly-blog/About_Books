@@ -9,4 +9,4 @@ jobs:
         env:
           SSHKEY_CODEBERG: ${{ secrets.SSHKEY_CODEBERG }}
           REMOTE_CODEBERG: ${{ vars.REMOTE_CODEBERG }}
-        run: wget https://raw.githubusercontent.com/lazy-blog/reusable_scripts/refs/heads/main/push_blog_to_all.sh -O- |/bin/sh
+        run: wget https://raw.githubusercontent.com/ly-blog/reusable_scripts/refs/heads/main/push_blog_to_all.sh -O- |/bin/sh
